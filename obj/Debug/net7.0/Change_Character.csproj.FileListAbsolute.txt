@@ -1,0 +1,30 @@
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\bin\Debug\net7.0\Change_Character.exe
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\bin\Debug\net7.0\Change_Character.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\bin\Debug\net7.0\Change_Character.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\bin\Debug\net7.0\Change_Character.dll
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\bin\Debug\net7.0\Change_Character.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.dll
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\refint\Change_Character.dll
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\Change_Character.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Change_Character\obj\Debug\net7.0\ref\Change_Character.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\bin\Debug\net7.0\Change_Character.exe
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\bin\Debug\net7.0\Change_Character.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\bin\Debug\net7.0\Change_Character.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\bin\Debug\net7.0\Change_Character.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\bin\Debug\net7.0\Change_Character.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\refint\Change_Character.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\Change_Character.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\Change_Character\obj\Debug\net7.0\ref\Change_Character.dll
